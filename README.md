@@ -66,6 +66,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/trixaew/trixaew/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trixaew/trixaew/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trixaew/trixaew/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/trixaew/trixaew/output/github-snake-light.svg">
+</picture>
 
 ###
