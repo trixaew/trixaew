@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">Me chamo Beatriz Cristina de Arruda e sou natural de Santa Catarina. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.</p>
+<p data-importer="text" align="left">Me chamo Beatriz e sou natural de Santa Catarina. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
