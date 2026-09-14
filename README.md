@@ -12,11 +12,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">Estudante de Tecnologia</h3>
+<h3 data-importer="text" align="left">Technology Student</h3>
 
 ###
 
-<p data-importer="text" align="left">Me chamo Beatriz e sou natural de Santa Catarina. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.</p>
+<p data-importer="text" align="left">My name is Beatriz, and I’m from Santa Catarina. I graduated from high school at IFC, where I completed a technical program in IT technician. I’m currently studying Systems Analysis and Development.</p>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🤖 Linguagens e Tecnologias</h3>
+<h3 data-importer="text" align="left">🤖 Languages and Technologies</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">📚 Aprendendo</h3>
+<h3 data-importer="text" align="left">📚 Learning</h3>
 
 ###
 
